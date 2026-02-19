@@ -1,30 +1,65 @@
-# 👩‍💻 Pranjal Mohite
+👩‍💻 Pranjal Mohite
 
-Hello, I’m Pranjal Mohite, currently pursuing my Bachelor’s degree in **Artificial Intelligence & Data Science** at **Dr. D.Y. Patil Institute of Technology, Pune**, now in my final year. From the vibrant city of Nashik 🏙️, I’ve cultivated a blend of technical and soft skills that enable me to excel in both individual projects and collaborative environments.
+🎓 Final Year B.E. – Artificial Intelligence & Data Science
+🏫 Dr. D. Y. Patil Institute of Technology, Pune
+🌆 Nashik, India
 
-On the technical side, I’m skilled in programming languages like **Java**, **Python**, **JavaScript**, and have expertise in web development (HTML, CSS, JavaScript) 💻 and advanced technologies such as **machine learning**, **IoT**, and **encryption systems** 🔐. My soft skills—including communication 💬, teamwork 🤝, leadership 🧠, and problem-solving 🛠️—have been essential in leading various teams and initiatives.
+Hello! I’m Pranjal Mohite, an enthusiastic AI & Data Science engineer passionate about building real-world, scalable, and impact-driven solutions. I work at the intersection of Artificial Intelligence, Machine Learning, Full-Stack Development, and Intelligent Systems, focusing on solving practical problems in domains like smart cities, communication, education, and social impact.
 
-In addition to my academic and technical pursuits, I’m actively involved in multiple clubs 🎭
+I have hands-on experience in Java, Python, and JavaScript, along with full-stack development using HTML, CSS, and modern web technologies. My work includes building AI-powered platforms, IoT-based systems, and data-driven applications with a strong focus on system thinking, performance, and user-centric design.
 
-## 🚀 Notable Projects
+Beyond technical skills, I bring strong leadership, teamwork, and communication abilities through active participation in college clubs, event management, and collaborative projects.
 
-- 👶 **IoT-based Baby Swing**: Designed an automatic speed-adjusting swing using AI, IoT, and programming skills.  
-- 💧 **Smart Irrigation System**: Developed a sensor-driven system utilizing machine learning to optimize water usage.  
-- 📞 **RTC-based Video Chat Website**: Combined web development and machine learning to create a seamless real-time communication platform.  
-- 👩‍💼 **Youth Employment Platform**: Developed a job-skill matching and training web platform to combat unemployment.  
-- 📱 **Flutter App for School Students**: Built an educational mobile app using Flutter and Dart for school-level learning.  
-- 🏏 **AI in Sports Analytics**: Created AI models for player performance analysis, injury prediction, and fan engagement.  
-- 📬 **XKCD Comic Email System**: Built a PHP-based tool to fetch daily XKCD comics and email them to subscribers.
+🏆 Katathon 5.0 Winner – Developed an AI-based geo-intelligence solution using TomTom APIs for smart mobility and sustainability.
 
-In my free time, I enjoy 🎨 painting, 💃 dancing, and 🎶 exploring classical music — activities that allow me to tap into my creative side and stay balanced. These hobbies have also helped me develop discipline and attention to detail, qualities that I bring into my technical projects.
+Outside tech, I enjoy dancing, music, creative writing, and content creation, which help me stay creative, disciplined, and detail-oriented.
 
-I am dedicated to using both my technical expertise and interpersonal skills to make a positive impact on the world 🌍.
+✨ “A passionate learner and leader, committed to blending creativity with technology for meaningful change.”
 
-## “A passionate learner and leader, committed to blending creativity with technology for meaningful change.” ✨
+🚀 Notable Projects
+🌍 GeoSense – AI-Based Geo-Intelligence Platform
 
-## 🌐 Connect with Me
+Developed a comprehensive geo-intelligence ecosystem with a mobile app, web dashboard, and AI chatbot. Implemented eco-friendly route recommendations, traffic & pollution heatmaps, and ML-based urban zoning insights to support data-driven mobility and sustainability planning.
+Tech: HTML5, CSS3, JavaScript, TypeScript, Flask (Python), MongoDB, Firebase, TomTom APIs, OpenAI, Machine Learning
 
-- 🌍 [Portfolio Website](https://codewithpranjal.wordpress.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranjal-mohite-66242625b)  
-- 💻 [GitHub](https://github.com/Pranjal9812)  
-- 📄 [My Resume (PDF)](https://drive.google.com/file/d/1SV2iKBUdNpXJQ6NDFc953BDjoJcUMWsY/view)  
+👩‍💼 Youth Employment Platform
+
+Built a web-based platform that matches youth with relevant job opportunities and recommends personalized skill-training pathways using data-driven insights, improving employability and accessibility.
+Tech: Django, PostgreSQL, HTML, CSS, JavaScript
+
+📱 Flutter Learning App for Students
+
+Developed a Flutter-based mobile application featuring interactive learning modules, quizzes, and curated study resources to enhance student engagement and learning outcomes.
+Tech: Flutter, Dart, Firebase, REST APIs
+
+📬 XKCD Email Automation System
+
+Created an automated system that fetches the latest XKCD comic via API and sends it daily to subscribers. Implemented scheduling for fully automatic email delivery to improve engagement.
+Tech: PHP, SMTP, Cron Jobs, API Integration
+
+📞 RTC-Based Video Chat Website (MYCHAT_VIDEO)
+
+Built a real-time video communication platform with secure peer-to-peer connectivity and a responsive interface. Integrated intelligent features to enhance user interaction and performance.
+Tech: HTML, CSS, JavaScript, WebRTC
+
+🛠️ Technical Skills
+
+Languages: Java, Python, JavaScript
+Web: HTML, CSS, Flask, Django
+Databases: MongoDB, PostgreSQL, Firebase
+Technologies: Machine Learning, AI, IoT, REST APIs, WebRTC
+Tools: Git, GitHub, VS Code
+
+🌐 Connect With Me
+
+🌍 Portfolio / Blog
+https://codewithpranjal.wordpress.com
+
+💼 LinkedIn
+https://www.linkedin.com/in/pranjal-mohite-66242625b
+
+💻 GitHub
+https://github.com/Pranjal9812
+
+🧠 Stack Overflow
+https://stackoverflow.com/users/24233184/pranjal-mohite
